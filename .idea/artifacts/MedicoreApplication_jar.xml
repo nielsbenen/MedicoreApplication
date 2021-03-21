@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MedicoreApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MedicoreApplication_jar</output-path>
+    <root id="archive" name="MediCoreApplication.jar">
+      <element id="module-output" name="MediCoreApplication" />
+    </root>
+  </artifact>
+</component>
